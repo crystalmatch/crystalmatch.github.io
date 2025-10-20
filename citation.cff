@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kolesnikov"
+  given-names: "Valentyn"
+  orcid: "https://orcid.org/0009-0003-9608-3364"
+title: "Crystal Match"
+version: 1.0
+doi: 10.5281/zenodo.17399607
+date-released: 2025-10-20
+url: "https://github.com/crystalmatch/crystalmatch.github.io"
+license: MIT

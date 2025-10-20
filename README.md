@@ -9,10 +9,10 @@ A captivating browser-based match-3 puzzle game built entirely with **HTML**, **
 * **100 Unique Levels:** Progressive difficulty with increasing challenges and crystal types.
 * **6 Beautiful Crystal Types:** Match diamonds, emeralds, sapphires, topazes, amethysts, and rubies with gorgeous SVG graphics.
 * **Star Rating System:** Earn up to 3 stars per level based on your score performance.
-* **Strategic Gameplay:** Limited moves per level—plan ahead to reach the target score!
+* **Strategic Gameplay:** Limited moves per level-plan ahead to reach the target score!
 * **Smart Hints:** Get helpful suggestions when you're stuck.
 * **Board Shuffle:** Rearrange crystals when no valid moves are available.
-* **Auto-Save Progress:** Your game state is automatically saved—never lose your progress!
+* **Auto-Save Progress:** Your game state is automatically saved-never lose your progress!
 * **Cascading Matches:** Chain reactions give bonus points for strategic combos.
 * **Level Selection:** Jump to any unlocked level and replay for better scores.
 * **Responsive Design:** Optimized for desktop, tablet, and mobile devices with touch controls.
@@ -33,7 +33,7 @@ A captivating browser-based match-3 puzzle game built entirely with **HTML**, **
 2. Navigate to the project folder:
 
    ```bash
-   cd crystal-match.github.io
+   cd crystalmatch.github.io
    ```
 
 3. Open `index.html` in your browser.
